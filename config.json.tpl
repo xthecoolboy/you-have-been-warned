@@ -1,9 +1,9 @@
 {
   "id": "603990770667487243",
   "permissions": 8,
-  "token": "- YOUR TOKEN HERE -",
+  "token": "NzIwOTY3NjkxMzcyMDY4ODc0.Xw8CIw.jO0R7jyApQi1Z3sFQ8nRCMhGO7M",
   "openBrowser": false,
-  "command_prefix": "/",
+  "command_prefix": "+",
   "warningPrefix": "warnings: ",
   "warningRadix": 10,
   "admins": [
