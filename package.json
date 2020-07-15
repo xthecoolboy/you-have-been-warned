@@ -4,7 +4,7 @@
   "description": "Discord bot for warnings",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node index.js"
   },
   "author": "Patrick Sachs",
   "license": "MIT",
